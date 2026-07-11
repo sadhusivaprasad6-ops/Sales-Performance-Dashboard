@@ -46,7 +46,7 @@ Sales-Performance-Dashboard/
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📊 KEY PERFORMANCE INDICATORS (KPIs)
 
