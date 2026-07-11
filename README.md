@@ -46,9 +46,7 @@ Sales-Performance-Dashboard/
 
 ## 📈 DASHBOARD PREVIEW
 
-![Dashboard]("C:\Users\sadhu\Downloads\ImagesDashboard.png\ImagesDashboard.png.png")
-
----
+![Dashboard](Images/Dashboard.png)
 
 ## 📊 KEY PERFORMANCE INDICATORS (KPIs)
 
