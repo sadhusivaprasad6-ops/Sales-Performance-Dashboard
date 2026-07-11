@@ -44,7 +44,7 @@ Sales-Performance-Dashboard/
 
 ---
 
-## 📈 DASHBOARD PREVIEW
+## Dashboard Preview
 
 ![Dashboard](Images/Dashboard.png)
 
