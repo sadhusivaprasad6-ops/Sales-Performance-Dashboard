@@ -46,7 +46,7 @@ Sales-Performance-Dashboard/
 
 ## 📈 DASHBOARD PREVIEW
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard]("C:\Users\sadhu\Downloads\ImagesDashboard.png\ImagesDashboard.png.png")
 
 ---
 
